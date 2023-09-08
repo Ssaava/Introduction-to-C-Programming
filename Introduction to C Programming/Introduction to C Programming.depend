@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694165113 source:c:\users\emma\desktop\github repositories 2023\c-programing\introduction-to-c-programming\introduction to c programming\main.c
+	<stdio.h>
+	<stdlib.h>
+
