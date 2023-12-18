@@ -111,7 +111,10 @@ int main()
     }
     */
 
-
+    int num = (int)((ceil(log10(88)) + 1) * sizeof(char));
+    char numStr[num];
+    sprintf(numStr, "The value is clear %d", num);
+    printf(numStr);
     return 0;
 }
 // this is a function that returns the sum of 2 numbers
